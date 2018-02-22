@@ -1,5 +1,3 @@
-/* Kimberly Duffy 1001607648 */
-
 #include <stdio.h>
 #include <stdbool.h>
 
